@@ -1,3 +1,3 @@
 # hardy-weinberg
 ### AP Bio Hardy-Weinberg Model
-![image](https://user-images.githubusercontent.com/50224596/158430692-ec6aec20-5349-4c52-b226-43d82ba23930.png)
+![image](https://user-images.githubusercontent.com/50224596/158433465-5f42f9b1-553c-499c-9a61-65e4e1e41b0f.png)
