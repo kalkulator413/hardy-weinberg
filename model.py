@@ -1,7 +1,6 @@
 from random import random
 
 def run(p, num_offspring = 16):
-    q = 1 - p
     alleles = []
     for _ in range(num_offspring):
         current = ''
